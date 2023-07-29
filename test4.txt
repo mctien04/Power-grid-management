@@ -1,0 +1,26 @@
+200
+3
+Mango Tree
+COMMERCIAL
+200
+300
+1
+2
+Anna Ann
+Apple App
+Apple Juice
+RESIDENTIAL
+200
+300
+0
+1
+Bobby Bob
+Berry Smoothie
+RESIDENTIAL
+500
+400
+1
+3
+Bob
+Ceph Joe
+Johny Rob
